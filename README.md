@@ -254,7 +254,7 @@ Este objeto serializado podemos usarlo para enviarlo a MostrarObjeto.php y así 
 
 ![](imagenes/imagen8.png)
 
-![image](https://github.com/user-attachments/assets/2411d861-4ce1-456f-96cc-42f1d4871c4c)
+
 
 - Copiar la salida obtenida
 
